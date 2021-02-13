@@ -11,9 +11,6 @@ Might this land a good job?
 Perhaps that dream will also become a reality, but that prospect hasn't quite set in yet.
 My goal started as a desire to design, build, and program, my own micro controllers and UI to be installed in my own tools, e.g. drones, camera controls, or robots. Most of this is really an exercise I wanted to commit to to keep my own sanity and to give my mind something to focus on that is disciplined and organized.
 
-// I am placing an edit here for practice using github.
-// I am placing an edit here for practice using github .......
-
 In short, although I am not prone to spiritual ideas I am here learning for the sake of "fun" and to benefit my own "soul".
 
 Be prepared, my approaches may be unorthodox.
